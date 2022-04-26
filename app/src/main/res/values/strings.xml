@@ -1,0 +1,42 @@
+<resources>
+    <!--
+Nama : Rama Ramdani
+NIM : 10119181
+Kelas : IF-5
+Tgl Pengerjaan : 25 April 2022
+-->
+    <string name="app_name">10119181Latihan2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="fb">CONNECT WITH FACEBOOK</string>
+    <string name="akun">doesnt have account ?</string>
+    <string name="daftar">Register</string>
+    <string name="email">Email</string>
+    <string name="nohp">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="famale">Famale</string>
+    <string name="blood">Blood Type</string>
+    <string name="reshus">Reshus</string>
+    <string name="repass">Retype Password</string>
+    <string name="personal">Personal</string>
+    <string name="orga">Organization</string>
+    <string name="job">Job</string>
+    <string name="alamat">Home Address</string>
+    <string name="lokasi">Default Location</string>
+    <string name="agree">Agree with Terms and Conditions</string>
+    <string name="almost">Almost There</string>
+    <string name="thank">Thank you for registering with us. One more</string>
+    <string name="step">step, you need to check your email</string>
+    <string name="active">to active your account</string>
+    <string name="verify">Verify</string>
+    <string name="accountver">Verify your Account</string>
+    <string name="emailver">We have send verification code to your email</string>
+    <string name="enter">enter verification code here...</string>
+    <string name="send">send</string>
+    <string name="code">doesnt get the code?</string>
+    <string name="resend">Resend</string>
+    <string name="profile">Rama Ramdani</string>
+    <string name="blood_type">Blood type : B</string>
+</resources>
